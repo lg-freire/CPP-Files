@@ -21,5 +21,11 @@
     <ClCompile Include="Pactice.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="iostream.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="iostream part 2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
