@@ -2,7 +2,7 @@
 
 int main()
 {
-	std::cout << "Enter a number:\n"; // simple print
+	std::cout << "Enter a number: "; // simple print
 
 	int x{ }; // variable needs to be declared first, apparently
 	std::cin >> x; // get integer value from keyboard, store on 'x' memory space
