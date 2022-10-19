@@ -14,7 +14,7 @@ int main()
 {
 	int num{ userInput() }; // if function already returns an int value, could just use that in the output print?
 
-	cout << num << " doubled is " << num * 2 << '\n';
+	cout << num << " doubled is " << num * 2 << ".\n";
 
 	return 0;
 
