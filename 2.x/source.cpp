@@ -1,15 +1,8 @@
 #include <iostream>
 
-int readNumber() {
-	int n{};
-	std::cin >> n;
+int readNumber();
 
-	return n;
-}
-
-void writeAnswer(int n) {
-	std::cout << n << '\n';
-}
+void writeAnswer(int n);
 
 int main()
 {
